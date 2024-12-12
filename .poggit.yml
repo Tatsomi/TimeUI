@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Tatsomi/TimeUI
+build-by-default: true
+branches:
+- main
+projects:
+  TimeUI:
+    path: ""
+...
