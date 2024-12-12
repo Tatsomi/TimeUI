@@ -1,0 +1,15 @@
+---
+name: TimeUI
+version: 0.0.1
+main: Tatsomi\TimeUI\Main
+api: 5.0.0
+src-namespace-prefix: Tatsomi\TimeUI
+author: Tatsomi
+
+commands:
+  timeui:
+    permission: timeui.cmd
+    description: Open form for change time
+permissions:
+  timeui.cmd:
+    default: true
