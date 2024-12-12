@@ -1,2 +1,5 @@
 # TimeUI
-Time changer with form , This plugin for PocketMine 5.0.0
+Time changer with form
+
+#command
+- /timeui (permission: timeui.cmd) default: op
