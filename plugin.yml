@@ -12,4 +12,4 @@ commands:
     description: Open form for change time
 permissions:
   timeui.cmd:
-    default: true
+    default: false
