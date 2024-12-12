@@ -1,5 +1,2 @@
-# TimeUI
-Time changer with form
-
-#command
+# command
 - /timeui (permission: timeui.cmd) default: op
